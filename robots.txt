@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://faurki.github.io/muz/sitemap.muz.gz
